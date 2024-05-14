@@ -1,0 +1,215 @@
+{
+    "Cousres" :[
+    
+    {
+  
+      "id": 1, 
+      "likes":110,
+      "name": "Introduction to React Native",
+      "instructor": "John Doe", 
+      "description": "Learn the basics of React Native development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "D:\\Work\\extensions photos\\apllicant\\ALMENO\\AlEMENO_APP\\Json-Server\\ALEMENO_APP-Server\\course-01.jpg", 
+      "duration": "8 weeks", 
+      "schedule": "Tuesdays and Thursdays, 10:00 PM - 12:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic JavaScript knowledge", "amiliarity withReact"],
+      "syllabus": [
+      {
+      "week": 1,
+      "topic": "Introduction to React Native",
+      "content": "Overview of React Native, setting up yourdevelopment environment."
+      },
+      {
+      "week": 2,
+      "topic": "Building Your First App",
+      "content": "Creating a simple mobile app using React Nativecomponents."
+      }
+      ],
+      "students": [
+      {
+      "id": 101,
+      "name":"Alice Johnson",
+      "email": "alice@example.com"
+      },
+      {
+      "id": 102,
+      "name": "Bob Smith",
+      "email": "bob@example.com"
+      }
+      ],
+      "DueDate":"2025-2-14"
+      ,"progress":0
+      ,"enroll":false
+  
+    },
+    {
+  
+      "id": 2, 
+      "likes":99,
+      "name": "Introduction to React Native",
+      "instructor": "John Doe", 
+      "description": "Learn the basics of React Native development and build your first mobile app.",
+      "enrollmentStatus": " In-Progress",
+      "thumbnail": "D:\\Work\\extensions photos\\apllicant\\ALMENO\\AlEMENO_APP\\Json-Server\\ALEMENO_APP-Server\\course-02.jpg", 
+      "duration": "8 weeks", 
+      "schedule": "Tuesdays and Thursdays, 5:00 PM - 7:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic JavaScript knowledge", "amiliarity withReact"],
+      "syllabus": [
+      {
+      "week": 1,
+      "topic": "Introduction to React Native",
+      "content": "Overview of React Native, setting up yourdevelopment environment."
+      },
+      {
+      "week": 2,
+      "topic": "Building Your First App",
+      "content": "Creating a simple mobile app using React Nativecomponents."
+      }
+      ],
+      "students": [
+      {
+      "id": 101,
+      "name":"Alice Johnson",
+      "email": "alice@example.com"
+      },
+      {
+      "id": 102,
+      "name": "Bob Smith",
+      "email": "bob@example.com"
+      }
+      ]
+      ,"DueDate":"2024-8-14"
+      ,"progress":65
+      ,"enroll":true
+    },
+    {
+  
+      "id": 3, 
+      "likes":149,
+      "name": "Introduction to React Native",
+      "instructor": "John Doe", 
+      "description": "Learn the basics of React Native development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "D:\\Work\\extensions photos\\apllicant\\ALMENO\\AlEMENO_APP\\Json-Server\\ALEMENO_APP-Server\\course-03.jpg", 
+      "duration": "8 weeks", 
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic JavaScript knowledge", "amiliarity withReact"],
+      "syllabus": [
+      {
+      "week": 1,
+      "topic": "Introduction to React Native",
+      "content": "Overview of React Native, setting up yourdevelopment environment."
+      },
+      {
+      "week": 2,
+      "topic": "Building Your First App",
+      "content": "Creating a simple mobile app using React Nativecomponents."
+      }
+      ],
+      "students": [
+      {
+      "id": 101,
+      "name":"Alice Johnson",
+      "email": "alice@example.com"
+      },
+      {
+      "id": 102,
+      "name": "Bob Smith",
+      "email": "bob@example.com"
+      }
+      ],
+      "DueDate":"2025-6-20"
+      ,"progress":0
+      ,"enroll":true
+  
+    },
+    {
+  
+      "id": 4, 
+      "likes":200,
+      "name": "Introduction to React Native",
+      "instructor": "John Doe", 
+      "description": "Learn the basics of React Native development and build your first mobile app.",
+      "enrollmentStatus": "Closed",
+      "thumbnail": "D:\\Work\\extensions photos\\apllicant\\ALMENO\\AlEMENO_APP\\Json-Server\\ALEMENO_APP-Server\\course-04.jpg", 
+      "duration": "8 weeks", 
+      "schedule": "Tuesdays and Thursdays, 2:00 PM - 4:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic JavaScript knowledge", "amiliarity withReact"],
+      "syllabus": [
+      {
+      "week": 1,
+      "topic": "Introduction to React Native",
+      "content": "Overview of React Native, setting up yourdevelopment environment."
+      },
+      {
+      "week": 2,
+      "topic": "Building Your First App",
+      "content": "Creating a simple mobile app using React Nativecomponents."
+      }
+      ],
+      "students": [
+      {
+      "id": 101,
+      "name":"Alice Johnson",
+      "email": "alice@example.com"
+      },
+      {
+      "id": 102,
+      "name": "Bob Smith",
+      "email": "bob@example.com"
+      }
+      ],"DueDate":"2024-1-6"
+      ,"progress":100
+      ,"enroll":false
+  
+    },
+    {
+  
+      "id": 5, 
+      "likes":55,
+      "name": "Introduction to React Native",
+      "instructor": "John Doe", 
+      "description": "Learn the basics of React Native development and build your first mobile app.",
+      "enrollmentStatus": "In-Progress",
+      "thumbnail": "D:\\Work\\extensions photos\\apllicant\\ALMENO\\AlEMENO_APP\\Json-Server\\ALEMENO_APP-Server\\course-05.jpg", 
+      "duration": "8 weeks", 
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic JavaScript knowledge", "amiliarity withReact"],
+      "syllabus": [
+      {
+      "week": 1,
+      "topic": "Introduction to React Native",
+      "content": "Overview of React Native, setting up yourdevelopment environment."
+      },
+      {
+      "week": 2,
+      "topic": "Building Your First App",
+      "content": "Creating a simple mobile app using React Nativecomponents."
+      }
+      ],
+      "students": [
+      {
+      "id": 101,
+      "name":"Alice Johnson",
+      "email": "alice@example.com"
+      },
+      {
+      "id": 102,
+      "name": "Bob Smith",
+      "email": "bob@example.com"
+      }
+      ],
+      "dueDate":"2024-6-18"
+      ,"progress":30
+      ,"enroll":true
+  
+  
+    }
+  
+  ] 
+  }
